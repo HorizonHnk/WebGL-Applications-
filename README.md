@@ -75,11 +75,11 @@ To run these WebGL applications locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   [git clone https://github.com/HorizonHnk/WebGL-Applications-.git](https://github.com/HorizonHnk/WebGL-Applications-.git)
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd your-repo-name
+   cd WebGL-Applications-
    ```
 3. **Open the Project**:
    - Open the `index.html` file in your preferred browser.
@@ -102,7 +102,7 @@ Contributions are welcome! If you'd like to contribute to this repository, pleas
 1. **Fork the Repository**.
 2. **Create a New Branch**:
    ```bash
-   git checkout -b feature/your-feature-name
+   git checkout -b feature/WebGL-Applications-
    ```
 3. **Commit Your Changes**:
    ```bash
@@ -110,7 +110,7 @@ Contributions are welcome! If you'd like to contribute to this repository, pleas
    ```
 4. **Push to the Branch**:
    ```bash
-   git push origin feature/your-feature-name
+   git push origin feature/WebGL-Applications-
    ```
 5. **Open a Pull Request**.
 
